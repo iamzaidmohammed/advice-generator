@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+button:hover {
+  border: hsl(150, 100%, 66%) 4px solid;
+  box-shadow: 0 0 23px 4px hsl(150, 100%, 66%);
+}
+
+@font-face {
+  font-family: "Manrope";
+  src: url("https://fonts.googleapis.com/css2?family=Manrope:wght@800;&display=swap");
+}
