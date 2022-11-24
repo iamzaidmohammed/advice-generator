@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/zaidmohammed7/advice-generator](https://github.com/zaidmohammed7/advice-generator)
-- Live Site URL: [https://advice-generator-cs40kunqf-zaidmohammed7.vercel.app/](https://advice-generator-cs40kunqf-zaidmohammed7.vercel.app/)
+- Live Site URL: [https://advice-generator-lake.vercel.app/](https://advice-generator-lake.vercel.app/)
 
 ## My process
 
